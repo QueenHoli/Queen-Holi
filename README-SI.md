@@ -14,10 +14,10 @@
 </a>
 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴀᴍ ǫᴜᴇᴇɴ ʜᴏʟɪ*
 A user friendly bot for whatsapp
-power  of  SRI LANKA💙
+⚜️power of  **TEAM⚜️
 
-<a href="-----------------">Support Group</a> |
-        <a href="https://Wa.me/coming soon-----">Queen Holi Team </a> |
+<a href="-----------------">Support </a> |
+        <a href="https://Wa.me/9400000">Queen Holi Team </a> |
   
 `Enjoy Queen Holi Bot😙💙`
 </p>
@@ -65,7 +65,7 @@ power  of  SRI LANKA💙
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94757845360">
+  <a href="https://wa.me/.........">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
@@ -120,11 +120,10 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ## 👨‍💻Developer Team
 
-[![coming soon....)
+(coming soon....)
 
 (..)
 <a href="https://Wa.me/......">
-    <".....">
   
   </a>
 
