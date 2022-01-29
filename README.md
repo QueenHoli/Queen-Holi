@@ -13,7 +13,7 @@
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome❤️😊&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome❤️&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 <p align="center">
@@ -26,11 +26,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/QueenHoli/Queen-Holi">
-    <img src="https://img.shields.io/docker/pulls/QueenHoli/whatsasena?style=flat-square"/></a>
+    <img src="https://img.shields.io/docker/pulls/QueenHoli/Queen-Holi?style=flat-square"/></a>
   
   </a>
   <a href="https://github.com/QueenHoli/Queen-Holi">
-    <img src="https://img.shields.io/docker/image-size/QueenHoli/whatsasena?style=flat-square">
+    <img src="https://img.shields.io/docker/image-size/QueenHoli/Queen-Holi?style=flat-square">
     
   </a>
 </p>
@@ -41,7 +41,7 @@
   
   </a>
   <a href="https://github.com/QueenHoli/Queen-Holi/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/QueenHoli/Queen-Holi?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/QueenHoli/Queen-Holi/stargazers">
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="httsp://github.com/QueenHoli/Queen-Holi">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
@@ -63,11 +63,11 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=.%20.&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/94786598862">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-.%20.X%20-purple&style=plastic">
 
   </a>
 </p>
@@ -77,7 +77,8 @@
 #### හරිම පහසුයි 😋
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR code එක ගන්න පුලුවන්..පහල  බටනය මත touch කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/QuuenHoli/Queen-Holi)](https://replit.com/@QueenHoli?v=1)
+[![Run on Repl.it]https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@QueenHoli/Queen-Holi-QR-Code)
+
 
 
 ### [අනිවාර්යෙන් කියවන්න‼️]
