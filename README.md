@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://telegra. Ai ai ah.jpg)
+![logo](https://naniwallpaper.com/download/1-shouko-nishimiya-wallpaper/.jpg)
 <h1 align="center"><b> 👸💙QUEEN HOLI</b></h1>
 
 </a>
