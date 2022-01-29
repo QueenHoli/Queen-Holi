@@ -62,11 +62,11 @@ A user friendly bot for whatsapp
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=HOLI%20&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=HOLI%20&color=black&style=plastic">
 
   </a>
   <a href="https://wa.me/.........">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20AHOli%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20HOli%20-red&style=plastic">
 
   </a>
 </p>
