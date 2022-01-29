@@ -25,7 +25,7 @@ A user friendly bot for whatsapp
 </a>
 <p align="center">
   <a href="https://github.com/QueenHoli/Queen-Holi.git">
-    <img src="https://img.shields.io/docker/pulls/xneon2/Hashzi-X?style=flat-square"/></a>
+    <img src="https://img.shields.io/docker/pulls/QueenHoli/Queen-Holi?style=flat-square"/></a>
   </a>
   <a href="https://github.com/QueenHoli/Queen-Holi.git>
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
@@ -40,11 +40,11 @@ A user friendly bot for whatsapp
   
   </a>
   <a href="https://github.com/QueenHoli/Queeni-Holi/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/QueenHoli/Queen-Holi?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/QueenHoli/Queen-Holi/stargazers">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
+    <img src="https://img.shields.io/github/stars/QueenHoli/Queen-Holi?style=social">
   </a>
 </p>
 
@@ -62,11 +62,11 @@ A user friendly bot for whatsapp
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=HOLI%20X&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/.........">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20AHOli%20-purple&style=plastic">
 
   </a>
 </p>
