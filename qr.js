@@ -1,40 +1,64 @@
-/* Copyright (C) 2020 Yusuf Usta.
-
+/* Copyright (C) 2021 Queen Holi
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-
-WhatsAsena - Yusuf Usta
+Queen-Holi
 */
 
 const chalk = require('chalk');
-const {WAConnection, MessageOptions, MessageType, Mimetype} = require('@adiwajshing/baileys');
-const {StringSession} = require('./whatsasena/');
+const { WAConnection, MessageType } = require('@adiwajshing/baileys');
 const fs = require('fs');
+async function whatsAsena() {
+  const conn = new WAConnection();
+  conn.logger.level = 'warn';
+  conn.version = [2, 2126, 14]
 
-async function whatsAsena () {
-    const conn = new WAConnection();
-    const Session = new StringSession();  
-    conn.version = [3, 3234, 9]
-    conn.logger.level = 'warn';
-    conn.regenerateQRIntervalMs = 50000;
+  conn.on('connecting', async () => {
+    console.log(`${chalk.green.bold('Amazone Alexa')}${chalk.green.bold('Team')}
+${chalk.white.italic('amazone String code recipient')}
+${chalk.blue.bold('⛔️ Connecting to whatsapp, please wait.....')}`);
+  });
 
-    conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
-${chalk.white.italic('AsenaString Kodu Alıcı')}
-${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
-    });
-    conn.on('open', async () => {
-        var st = Session.createStringSession(conn.base64EncodedAuthInfo());
-        console.log(
-            chalk.green.bold(conn.user.jid.startsWith('90') || conn.user.jid.startsWith('994') ? 'WhatsAsena String Kodunuz: ' : 'WhatsAsena String Code: '), st
-        );
+  conn.on('open', async () => {
+    console.log(
+      chalk.green.bold('Holi QR Code: '),
+      'QUEEN HOLI;;;' +
+      Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
+        'base64'
+      )
+    );
+    await conn.sendMessage(
+      conn.user.jid,
+      'QUEEN HOLI;;;' +
+      Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
+        'base64'
+      ),
+      MessageType.text
+    );
+    if (conn.user.jid.startsWith('91')) {
+      await conn.sendMessage(
+        conn.user.jid,
+        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ Successfully scanned♥️️*\n*▪️Thanks For using Queen Holi*',
+        MessageType.text
+      );
+    } else {
+      await conn.sendMessage(
+        conn.user.jid,
+        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Successfully scanned♥️️️*\n*▪️Thanks For using Queen Holi*',
+        MessageType.text
+      );
+    }
+    console.log(
+      chalk.green.bold(
+        "\n\n Nigalkku sandesham pakarthan \n kaliyunnillegil,whatsapp parishodikkuka \n nigalude numberillekku  code ayachinnu!\n\n\n\n"
+      ),
+      chalk.green.bold(
+        'If You Cant copy this code, please check your whatsapp log number✅️'
+      )
+    );
+    process.exit(0);
+  });
 
-        if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
-        }
-        console.log(conn.user.jid.startsWith('90') || conn.user.jid.startsWith('994') ? 'Bu Kodu Kimseyle Paylaşma ' + conn.user.name : 'Dont Share This Code to Anyone ' + conn.user.name)
-        process.exit(0);
-    });
-    await conn.connect();
+  await conn.connect();
 }
-whatsAsena()
+
+whatsAsena();
