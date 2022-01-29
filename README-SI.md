@@ -143,13 +143,13 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
   </a>
 
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/)
-[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](...)
+[![Instagram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](...)
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](....)
 
 
 ### 👸Queen Holi  Team
 
-[![Find On Telegram ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
+[![Find On whatsapp ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
