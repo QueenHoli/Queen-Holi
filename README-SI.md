@@ -149,11 +149,10 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ### 👸Queen Holi  Team
 
-[![Find On whatsapp ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/)
+[![Find On whatsapp ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/) [![Find On Whatsapp ]
+[![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 
-## Special thanks for
-[Team Queen Holi]
-[🔱Queen Holi🔱](https://t.me/.....)
+## we are㊗️
+[🔱Queen Holi🔱]
