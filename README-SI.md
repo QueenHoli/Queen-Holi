@@ -147,7 +147,7 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](....)
 
 
-### 👸Queen Holi  Team
+### 👸Queen Holi  Team (CONTACT)
 
 [![Find On whatsapp ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
@@ -155,4 +155,4 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/......-blue.svg)](https://Wa.me/)
 
 ## we are㊗️
-🔱Queen Holi🔱
+🔱TEAM QUEEN HOLI🔱
