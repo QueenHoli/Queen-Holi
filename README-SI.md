@@ -75,13 +75,13 @@ A user friendly bot for whatsapp
 
 ### ⬇️Very Easy Method
 
-#### You can easily get the QR code of Queen Holi  Repl.it .. Click the button 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
+#### You can easily get the QR code of Queen Holi  Repl.it .. Click the button bellow⬇️
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@QueenHoli/QueenHoli?v=1)
 
-`You need 2  phones  or One mobile phone and laptop to deploy the Queen Holi
+`You need 2  phones  or One mobile phone and laptop to deploy the Queen Holi.
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Neotro-x  Bot.`
+From the first device you need to install QUEEN HOLI  Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/QueenHoli/QUEEN-HOLI)
