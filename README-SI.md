@@ -2,14 +2,14 @@
   [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/QueenHoli/Queen-Holi/blob/main/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/QueenHoli/Queen-Holi/blob/main/README-SI.md)
 
-![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
+![logo](https://telegra.ph/.jpg)
 <h1 align="center"><b> 💖ǫᴜᴇᴇɴ ʜᴏʟɪ💖 </b></h1>
 
 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ǫᴜᴇᴇɴ+ʜᴏʟɪ+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome👸💙+Alexa&font=Fira%20Code&center=true&width=380&height=70">
 </p>
 </a>
 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴀᴍ ǫᴜᴇᴇɴ ʜᴏʟɪ*
