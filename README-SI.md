@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome👸💙+Alexa&font=Fira%20Code&center=true&width=380&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome👸💙&font=Fira%20Code&center=true&width=380&height=70">
 </p>
 </a>
 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴀᴍ ǫᴜᴇᴇɴ ʜᴏʟɪ*
