@@ -16,7 +16,7 @@
 A user friendly bot for whatsapp
 ⚜️power of |: TEAM⚜️
 
-<a href="-----------------">Support </a> |
+<a href="-----------------">Support you</a> |
         <a href="https://Wa.me/9400000">Queen Holi Team </a> |
   
 `Enjoy Queen Holi Bot😙💙`
@@ -36,7 +36,7 @@ A user friendly bot for whatsapp
 
 <p align="center">
   <a href="https://github.com/QueenHoli/Queen-Holi.git">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/QueenHoli/Queeni-Holi/fork">
@@ -50,7 +50,7 @@ A user friendly bot for whatsapp
 
 <p align="center">
   <a href="https://github.com/QueenHoli/Queen-Holi">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%6HOLI&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=RepoHOLI&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
