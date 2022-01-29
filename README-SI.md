@@ -50,7 +50,7 @@ A user friendly bot for whatsapp
 
 <p align="center">
   <a href="https://github.com/QueenHoli/Queen-Holi">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%6HOLI&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
@@ -62,7 +62,7 @@ A user friendly bot for whatsapp
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=HOLI%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=HOLI%20&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/.........">
