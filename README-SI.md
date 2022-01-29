@@ -13,12 +13,13 @@
 </p>
 </a>
 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴀᴍ ǫᴜᴇᴇɴ ʜᴏʟɪ*
-A user friendly bot for whatsapp,power  of  SRI LANKA💙
+A user friendly bot for whatsapp
+power  of  SRI LANKA💙
 
 <a href="-----------------">Support Group</a> |
         <a href="https://Wa.me/coming soon-----">Queen Holi Team </a> |
   
-`<Enjoy Queen Holi Bot😙>`
+`Enjoy Queen Holi Bot😙💙`
 </p>
 
 </a>
@@ -155,5 +156,5 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 
 ## Special thanks for
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/.....)
+[Team Queen Holi]
 [Yusuf Usta](https://t.me/.....)
