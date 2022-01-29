@@ -77,7 +77,7 @@
 #### හරිම පහසුයි 😋
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR code එක ගන්න පුලුවන්..පහල  බටනය මත touch කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@UchithaDelgoda/Queen-Holi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@UchithaDelgoda/Queen-Holi-index-js)
 
 
 
