@@ -80,7 +80,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@QueenHoli?v=1)
 
 
-### [අනිවාර්යෙන්ය කිවන්න]
+### [අනිවාර්යෙන් කියවන්න‼️]
 ```
 Queen Holi deploy කිරීමට ඔබට ජංගම දුරකථන 2 ක් හෝ ජංගම දුරකථනයක හා  පරිගණකයක් අවශ්‍ය වේ 
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
