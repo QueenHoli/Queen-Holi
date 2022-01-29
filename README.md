@@ -17,7 +17,7 @@
 
 </a>
 <p align="center">
-    Queen Holi යනු whatsapp භාවිතකරුවග්න්ගේ පහසුව උදෙසා නිම කල whatsapp bot කෙනෙකි 
+    Queen Holi යනු whatsapp භාවිතකරුවන්ගේ පහසුව උදෙසා නිම කල whatsapp bot කෙනෙකි 
     <br>
         <a href="coming soon">Support for you</a> |
         <a href="coming soon">Queen Holi</a> |
@@ -158,4 +158,4 @@ Queen Holi deploy කිරීමට ඔබට ජංගම දුරකථන 2
 [![Find On Whatsapp ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/)
 
 ## Special thanks for♥️
-[Team Queen Amdi Members](https://wa.me/....)
+[Team Queen Holi Members](https://wa.me/....)
