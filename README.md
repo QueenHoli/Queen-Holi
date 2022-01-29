@@ -121,8 +121,7 @@ Queen Holi deploy කිරීමට ඔබට ජංගම දුරකථන 2
 ```
 
 ## 👨‍💻Developer
-
-[![TEAM QUEEN HOLI](https://github.com/Queen-Holi.png?size=100']
+🔱TEAM QUEEN HOLI🔱
 
  ***Queen Holi💞***
 <a href="https://Wa.me/">
