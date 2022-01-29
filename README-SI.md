@@ -71,9 +71,9 @@ power  of  SRI LANKA💙
   </a>
 </p>
 
-## 💡HOW TO SETUP
+## 💟HOW TO SETUP
 
-### Very Easy Method
+### ⬇️Very Easy Method
 
 #### You can easily get the QR code of Queen Holi  Repl.it .. Click the button 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
@@ -92,7 +92,7 @@ Deploy and look Queen Holi features
 
 
 ## F.A.Q
-Answer a few frequently asked questions;
+Answer a few  questions;
 ### Can you read my messages???
 Since this project is open source, all codes are clear. Not more or less; You can see what you want. **Your accounts are not accessible.**
 
@@ -100,7 +100,7 @@ Since this project is open source, all codes are clear. Not more or less; You ca
 If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### 💰Do these bots have to pay??
-**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94766598862) 
+**Oh No🤭** [Whatsapp](https://wa.me/......) 
 
 ### 🔄 Can I Edit this bot?
 
@@ -113,7 +113,7 @@ There are **50+(coming soon...)+** Features/Commands Are there in **this bot!**
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
+This is an open source PROJECT, you are responsible for everything you do. 
 Absolutely, alexa  executives do not accept responsibility.
 By establishing the alexa, you are deemed to have accepted these responsibilities.
 ```
@@ -150,11 +150,11 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ### 👸Queen Holi  Team
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ranahansika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
+[![Find On Telegram ](https://img.shields.io/badge/.svg)](https://t.me/) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 
 ## Special thanks for
 [Team Queen Holi]
-[Yusuf Usta](https://t.me/.....)
+[🔱Queen Holi🔱](https://t.me/.....)
