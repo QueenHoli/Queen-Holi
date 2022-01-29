@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
+![logo](https://telegra. Ai ai ah.jpg)
 <h1 align="center"><b> 👸💙QUEEN HOLI</b></h1>
 
 </a>
@@ -159,4 +159,4 @@ Queen Holi deploy කිරීමට ඔබට ජංගම දුරකථන 2
 [![Find On Whatsapp ](https://img.shields.io/badge/.......-blue.svg)](https://Wa.me/)
 
 ## Special thanks for♥️
-[Team Quuen Amdi Members](https://wa.me/....)
+[Team Queen Amdi Members](https://wa.me/....)
