@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome👸💙&font=Fira%20Code&center=true&width=380&height=70">
 </p>
 </a>
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴀᴍ ǫᴜᴇᴇɴ ʜᴏʟɪ*
+
 A user friendly bot for whatsapp
-⚜️power of  **TEAM⚜️
+⚜️power of |: TEAM⚜️
 
 <a href="-----------------">Support </a> |
         <a href="https://Wa.me/9400000">Queen Holi Team </a> |
